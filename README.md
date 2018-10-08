@@ -1,5 +1,5 @@
 # AiiudaUml
-Diagramador UML
+Diagramador UML, aplicando Principios SOLID
 
 # Grupo
 Keep Calm and Code On
@@ -10,6 +10,9 @@ Keep Calm and Code On
 * Rodriguez Mendoza Denis
 * Sanchez Torrico Daniel
 * Vargar Quiroz Luis Fernando
+
+#LENGUAJE 
+JAVA 1.8
 
 # Instrucciones
 TestFrame.java es el archivo main para lanzar la GUI
