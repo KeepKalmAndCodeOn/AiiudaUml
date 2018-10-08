@@ -1,6 +1,6 @@
 package Diagrammer.Elementos;
 
-import Diagrammer.Acciones.Drawable;
+import Diagrammer.Interfaces.Drawable;
 
 public class DrawInterfaceElement extends DrawElement implements Drawable {
     public DrawInterfaceElement(String tipo) {

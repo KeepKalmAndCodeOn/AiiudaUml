@@ -1,10 +1,10 @@
-package Diagrammer.Acciones;
+package Diagrammer.Elementos;
 
 import javax.swing.*;
 import javax.swing.plaf.basic.BasicComboBoxRenderer;
 import java.awt.*;
 
-class ElementComboRender extends BasicComboBoxRenderer
+public class ElementComboRender extends BasicComboBoxRenderer
 {
     public Component getListCellRendererComponent(JList list, Object value, int index, boolean isSelected, boolean cellHasFocus)
     {

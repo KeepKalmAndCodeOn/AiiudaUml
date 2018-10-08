@@ -1,4 +1,4 @@
-package Diagrammer.Acciones;
+package Diagrammer.Interfaces;
 
 import Diagrammer.Elementos.ConfigMenu;
 

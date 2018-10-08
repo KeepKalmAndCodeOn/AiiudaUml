@@ -3,11 +3,15 @@ package Diagrammer;
 import java.awt.*;
 
 import Diagrammer.Acciones.ActionItemPopupMenu;
+import Diagrammer.Container.Frame;
+import Diagrammer.Container.MainContainer;
+import Diagrammer.Container.ToolBox;
+import Diagrammer.Container.WorkFrame;
 import Diagrammer.Elementos.*;
 
 public class TestFrame{
 
-    Frame frame;
+    Diagrammer.Container.Frame frame;
     ToolBox box;
     WorkFrame drawZone;
     MainContainer main;

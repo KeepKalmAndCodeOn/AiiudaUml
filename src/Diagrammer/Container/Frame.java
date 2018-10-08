@@ -1,4 +1,4 @@
-package Diagrammer;
+package Diagrammer.Container;
 
 import javax.swing.*;
 

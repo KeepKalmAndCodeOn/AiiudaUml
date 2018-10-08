@@ -1,4 +1,4 @@
-package Diagrammer.Acciones;
+package Diagrammer.Elementos;
 
 public class ElementCombo{
     private int value;

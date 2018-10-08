@@ -2,6 +2,7 @@ package Diagrammer.Elementos;
 
 
 import Diagrammer.Acciones.*;
+import Diagrammer.Interfaces.Drawable;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,7 +10,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.Random;
 
-public class DrawElement extends JPanel implements Drawable{
+public class DrawElement extends JPanel implements Drawable {
     private Random id;
     private String tipo;
     private String titulo;

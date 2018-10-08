@@ -1,6 +1,8 @@
 package Diagrammer.Acciones;
 
 import Diagrammer.Elementos.DrawElement;
+import Diagrammer.Elementos.ElementCombo;
+import Diagrammer.Elementos.ElementComboRender;
 
 import javax.swing.*;
 import java.awt.*;
@@ -77,7 +79,6 @@ public class ActionItemPopupMenu implements ActionListener
         this.label = label;
     }
     private void esPosible(String origen, String seleccionado){
-        System.out.println(origen + " - " + seleccionado);
         if(getPosible().contains(seleccionado.toUpperCase())){
             JOptionPane.showMessageDialog(null,
                         "Operación realizada correctamente \n DIBUJAR: "+ getTipoLinea(),
