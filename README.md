@@ -9,7 +9,7 @@ Keep Calm and Code On
 * Medrano Cambará Fabiola Natalia
 * Rodriguez Mendoza Denis
 * Sanchez Torrico Daniel
-* Vargar Quiroz Luis Fernando
+* Vargas Quiroz Luis Fernando
 
 #LENGUAJE 
 JAVA 1.8
